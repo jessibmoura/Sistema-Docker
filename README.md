@@ -7,3 +7,10 @@ O usuário pode adicionar e remover dados dos dois bancos, através da interface
 - Backend: Node, Express
 - BD1 & BD2: PostgreSQL
 - Docker e Docker Compose
+
+  Para compilar o projeto:
+
+  ```shell
+  docker compose up
+  ```
+  
