@@ -1,0 +1,1 @@
+CREATE TABLE nomes (Nome TEXT);
